@@ -1,0 +1,28 @@
+{
+  "frames": 1440,
+  "fps": 24.0,
+  "width": 640,
+  "height": 360,
+  "total_ids": 2,
+  "detection_count_histogram": {
+    "0": 677,
+    "2": 538,
+    "1": 225
+  },
+  "parameters": {
+    "method": "hsv",
+    "saturation": 75,
+    "value": 170,
+    "min_area": 0.006,
+    "max_area": 0.035,
+    "circularity": 0.55,
+    "solidity": 0.82,
+    "close": 3,
+    "grabcut": 0
+  },
+  "gate": 256.0,
+  "max_missed": 192,
+  "source": "https://www.youtube.com/watch?v=Y4JyV94y2_A",
+  "audio": "Output is silent; every source frame is retained.",
+  "limitation": "IDs are not claimed valid across long full occlusions, exits or cuts. No MOT ground truth is available."
+}

@@ -1,0 +1,1863 @@
+[
+  {
+    "id": 1,
+    "path": "data/raw/test/egg/not_damaged_1_jpg.rf.d74c98a14f068b48c1f58fd573361f1f.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.45
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fd071593370102ee6f0f8539a1c834eb162b372e8c35870798ccabd3e8b2e998"
+  },
+  {
+    "id": 2,
+    "path": "data/raw/train/egg/not_damaged_2_jpg.rf.a4629fbffb9457cd3dda5a1dfc6e5365.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.43,
+        0.33
+      ]
+    ],
+    "boxes": null,
+    "sha256": "56fe51e6daf80b3a6926731145c4e20ce6737a60b361adf0b540d36a5477d991"
+  },
+  {
+    "id": 3,
+    "path": "data/raw/train/egg/not_damaged_3_jpg.rf.d68fc8de8607c2495eb8c832c1e24078.jpg",
+    "group": "striped_cloth",
+    "split": "eval",
+    "points": [
+      [
+        0.47,
+        0.39
+      ]
+    ],
+    "boxes": null,
+    "sha256": "75b3767c555de52583825b926e3b28a0b4a9831c0843f33d25647f338c633139"
+  },
+  {
+    "id": 4,
+    "path": "data/raw/test/egg/not_damaged_4_jpg.rf.36c78b63ea4710d9642651ac3292fd58.jpg",
+    "group": "striped_cloth",
+    "split": "eval",
+    "points": [
+      [
+        0.59,
+        0.32
+      ]
+    ],
+    "boxes": null,
+    "sha256": "8db7ac2bbe77f4495ba43d817e6da38b94a6c9a63cb8f26c2aacb2eb643b5cb7"
+  },
+  {
+    "id": 5,
+    "path": "data/raw/train/egg/not_damaged_5_jpg.rf.395cc7ec9b988f25e77e403ef537737e.jpg",
+    "group": "striped_cloth",
+    "split": "eval",
+    "points": [
+      [
+        0.5,
+        0.59
+      ]
+    ],
+    "boxes": null,
+    "sha256": "7d86a6002f5f683ed60f0e3146616a4a5becbde5185d58c80f2cb1b2cd7c6314"
+  },
+  {
+    "id": 6,
+    "path": "data/raw/valid/egg/not_damaged_6_jpg.rf.1b79fa07c23ef838f19c9a226c9022f5.jpg",
+    "group": "striped_cloth",
+    "split": "eval",
+    "points": [
+      [
+        0.55,
+        0.2
+      ]
+    ],
+    "boxes": null,
+    "sha256": "3ff24f264236db391275e50f21242ad503f909b1d05262749921f6a46fc39860"
+  },
+  {
+    "id": 10,
+    "path": "data/raw/train/egg/not_damaged_10_jpg.rf.2347ffa54eea250ab240def10a3eb78f.jpg",
+    "group": "grass",
+    "split": "eval",
+    "points": [
+      [
+        0.43,
+        0.59
+      ]
+    ],
+    "boxes": null,
+    "sha256": "a857926ea8caa825795ce07df201428e32402541041c0931fd8ab0081c5af1a4"
+  },
+  {
+    "id": 11,
+    "path": "data/raw/valid/egg/not_damaged_11_jpg.rf.95e1bc4944748cfd1a56fe23a42b6ae8.jpg",
+    "group": "grass",
+    "split": "eval",
+    "points": [
+      [
+        0.61,
+        0.37
+      ]
+    ],
+    "boxes": null,
+    "sha256": "e9e2057311d0c0e01373d845071ec92e66374f9c5379b46a791e1317bffcc0f7"
+  },
+  {
+    "id": 12,
+    "path": "data/raw/train/egg/not_damaged_12_jpg.rf.339e366cebec5c32e751e8500aa12f3e.jpg",
+    "group": "grass",
+    "split": "eval",
+    "points": [
+      [
+        0.56,
+        0.49
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fd8906a452bcf7809803d82cee23880c55ec318486dbcd429234f8137e78c6fd"
+  },
+  {
+    "id": 13,
+    "path": "data/raw/train/egg/not_damaged_13_jpg.rf.60964651b01aed5680a994ecbd7012ea.jpg",
+    "group": "grass",
+    "split": "eval",
+    "points": [
+      [
+        0.61,
+        0.34
+      ]
+    ],
+    "boxes": null,
+    "sha256": "8d6a394ba7bb107efeb20d725ced642d4b05969ba5866860e0436e4641bb6925"
+  },
+  {
+    "id": 14,
+    "path": "data/raw/test/egg/not_damaged_14_jpg.rf.dc96559078b03433d2b65e5055904af1.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.44,
+        0.48
+      ]
+    ],
+    "boxes": null,
+    "sha256": "6e22929ce7f06a7d514e3f0acf131e5d3d0c8d83f1b8f496ce2461f7bf3c66da"
+  },
+  {
+    "id": 15,
+    "path": "data/raw/train/egg/not_damaged_15_jpg.rf.c7c6c90e16bcccd97696ed56f741d670.jpg",
+    "group": "patterned_fabric",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.64
+      ]
+    ],
+    "boxes": null,
+    "sha256": "41503f7a5150d7fc339a895a7188bdb9182133f52bfe4d1f373f01ff1b06bbc6"
+  },
+  {
+    "id": 16,
+    "path": "data/raw/train/egg/not_damaged_16_jpg.rf.133bb95ee3eacad7aecf2ab4cd1e1ff4.jpg",
+    "group": "cable_fabric",
+    "split": "eval",
+    "points": [
+      [
+        0.53,
+        0.45
+      ]
+    ],
+    "boxes": null,
+    "sha256": "371bf22c7251a72e896264ea3c01de29f48bd1ede66873741ae35b9d9f7a0c7e"
+  },
+  {
+    "id": 17,
+    "path": "data/raw/train/egg/not_damaged_17_jpg.rf.7298154b15cab2942d3351120a4337d5.jpg",
+    "group": "keyboard",
+    "split": "dev",
+    "points": [
+      [
+        0.54,
+        0.56
+      ]
+    ],
+    "boxes": null,
+    "sha256": "9d3b64d7e0ebb028e2649317441d4d88094cd7d3e183496fb2c157a9a151839e"
+  },
+  {
+    "id": 18,
+    "path": "data/raw/train/egg/not_damaged_18_jpg.rf.bc3fb0b05f8e3f72d25ae44db40362c0.jpg",
+    "group": "keyboard",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.53
+      ]
+    ],
+    "boxes": null,
+    "sha256": "2ff8807ee4e0e1a72cf550c135afd188159df95f241b605c3b702e00f03aceb0"
+  },
+  {
+    "id": 19,
+    "path": "data/raw/train/egg/not_damaged_19_jpg.rf.b68555e4ce0c87f7f6a9f9d441a47a08.jpg",
+    "group": "keyboard",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.37
+      ]
+    ],
+    "boxes": null,
+    "sha256": "79bdd3d14c8b173e00a864f5c39d9d9e548662d6204075322e77a0de797f94a2"
+  },
+  {
+    "id": 20,
+    "path": "data/raw/train/egg/not_damaged_20_jpg.rf.5e8498e31e0e596d64f6185f7c56534f.jpg",
+    "group": "backlit_hand",
+    "split": "dev",
+    "points": [
+      [
+        0.39,
+        0.34
+      ]
+    ],
+    "boxes": [
+      [
+        0.23,
+        0.2,
+        0.56,
+        0.49
+      ]
+    ],
+    "sha256": "3c2b0c0b7a63965c871e136f44452e7fec82486c5ae387b94fd11f36a7f85799"
+  },
+  {
+    "id": 21,
+    "path": "data/raw/train/egg/not_damaged_21_jpg.rf.a584f5d526fa26469cc144a40a3134da.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.43
+      ]
+    ],
+    "boxes": null,
+    "sha256": "23bcc3cd5ffbeda127b37b6aa362fd51e9bdca64668287bbfa8080a26f0ae4c3"
+  },
+  {
+    "id": 22,
+    "path": "data/raw/train/egg/not_damaged_22_jpg.rf.427da4fa2858bf0484b607774c6077c5.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.46
+      ]
+    ],
+    "boxes": null,
+    "sha256": "233674b37d9718644317d5a8d9db0680cdab9495c0c1d643ceeb43a392eb5256"
+  },
+  {
+    "id": 24,
+    "path": "data/raw/train/egg/not_damaged_24_jpg.rf.a557aeb67c480dc55479509a77b4e160.jpg",
+    "group": "backlit_hand",
+    "split": "dev",
+    "points": [
+      [
+        0.46,
+        0.44
+      ]
+    ],
+    "boxes": [
+      [
+        0.23,
+        0.28,
+        0.73,
+        0.64
+      ]
+    ],
+    "sha256": "7ae87200e1ed567186610c78be12936979b15bc003cf23129a646b3c6311ec47"
+  },
+  {
+    "id": 25,
+    "path": "data/raw/valid/egg/not_damaged_25_jpg.rf.9a2e0ec799b7cfe4b89e93c2bdf7896f.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.49
+      ]
+    ],
+    "boxes": null,
+    "sha256": "bdc7db8b490e3454c5bcec88aef88b867c60d3cd3de68ca15a0918829419fd8e"
+  },
+  {
+    "id": 27,
+    "path": "data/raw/train/egg/not_damaged_27_jpg.rf.9eabbf76d6ac2d4caccb38b11e0d28ad.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.48,
+        0.53
+      ]
+    ],
+    "boxes": null,
+    "sha256": "b2de712be000721d5a777022dd1c284c48d6babafd176f615329712a080a1960"
+  },
+  {
+    "id": 28,
+    "path": "data/raw/train/egg/not_damaged_28_jpg.rf.a7e8555e9e2b27a796da5d502582db24.jpg",
+    "group": "gray_floor",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.28
+      ]
+    ],
+    "boxes": null,
+    "sha256": "7591153a69a0d26422ad736e90e0ef026b5c2eb24b3b00b7db6e2b8281523d52"
+  },
+  {
+    "id": 29,
+    "path": "data/raw/train/egg/not_damaged_29_jpg.rf.b15d563685f9a249436a706a816cec07.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.51
+      ]
+    ],
+    "boxes": null,
+    "sha256": "29e4a7192507a311a145365656c0428716cfeb088bb5b22c56c5f6bf833f84e9"
+  },
+  {
+    "id": 30,
+    "path": "data/raw/test/egg/not_damaged_30_jpg.rf.48e9261777355fe67139ac1c5eae596b.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.52,
+        0.62
+      ]
+    ],
+    "boxes": null,
+    "sha256": "2bf27808def51e29a09e9016da5d1a0f5ee5899eb84789323625a4e0d7d54706"
+  },
+  {
+    "id": 31,
+    "path": "data/raw/train/egg/not_damaged_31_jpg.rf.7a5340cc049f94d06b26fa34850535ab.jpg",
+    "group": "red_lid",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.56
+      ]
+    ],
+    "boxes": null,
+    "sha256": "1d520740a60526248a4f1a294179e6eb541234d0ba9d8cfd39b6d599511302f1"
+  },
+  {
+    "id": 32,
+    "path": "data/raw/train/egg/not_damaged_32_jpg.rf.15f5702d8602844d8d866d229e674c89.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.63,
+        0.53
+      ]
+    ],
+    "boxes": null,
+    "sha256": "eda0577ce5ec5c268131d731f53a2c9ec634415c591b3a02d86d4c0af2e97ade"
+  },
+  {
+    "id": 33,
+    "path": "data/raw/train/egg/not_damaged_33_jpg.rf.0d5860269868461da778265b77ee13b2.jpg",
+    "group": "gray_surface",
+    "split": "dev",
+    "points": [
+      [
+        0.54,
+        0.45
+      ]
+    ],
+    "boxes": null,
+    "sha256": "b0822f1ffba20733499fd25e9006cb4a4024d9f57c7b425208dbacb05a3e4e79"
+  },
+  {
+    "id": 34,
+    "path": "data/raw/train/egg/not_damaged_34_jpg.rf.4be2a53f051e4372100c90f2d36ea129.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.47,
+        0.43
+      ]
+    ],
+    "boxes": null,
+    "sha256": "a82c93faf20f09463b3f97bbe7d67dae9adda10f7671652ff8d5c3ee32aecbdd"
+  },
+  {
+    "id": 35,
+    "path": "data/raw/train/egg/not_damaged_35_jpg.rf.fe6e06dca50c525194a8edc282489e2a.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.55,
+        0.57
+      ]
+    ],
+    "boxes": null,
+    "sha256": "1836a8ea2c175d307aff71be3d99d711a5df956786fa003f4d858626590caed5"
+  },
+  {
+    "id": 36,
+    "path": "data/raw/train/egg/not_damaged_36_jpg.rf.4968de1c56728d9f7325771e3a7f7e3e.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.45,
+        0.35
+      ]
+    ],
+    "boxes": null,
+    "sha256": "a0044a3d500cffe6ba92d5159d0585d0f73fee2b93969f1b551757ab03e261ef"
+  },
+  {
+    "id": 37,
+    "path": "data/raw/train/egg/not_damaged_37_jpg.rf.73b8cff8dacc52197fd7fdd958397507.jpg",
+    "group": "patterned_fabric",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.71
+      ]
+    ],
+    "boxes": null,
+    "sha256": "2f55b7aea3339826ddac8d80213c4f4485105acbb1e7c666450e3e5eebf00018"
+  },
+  {
+    "id": 39,
+    "path": "data/raw/train/egg/not_damaged_39_jpg.rf.81c4c633444db832268298ddae1010d6.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.35
+      ]
+    ],
+    "boxes": null,
+    "sha256": "0c7d91a2868c29bd4aa3da4d98ac2ba313ba411164a6a87746941fd7d0e9b937"
+  },
+  {
+    "id": 40,
+    "path": "data/raw/valid/egg/not_damaged_40_jpg.rf.71ddd6e202abb9dd3dd4721b6d408cba.jpg",
+    "group": "pink_bowl",
+    "split": "dev",
+    "points": [
+      [
+        0.4,
+        0.63
+      ]
+    ],
+    "boxes": [
+      [
+        0.14,
+        0.5,
+        0.62,
+        0.83
+      ]
+    ],
+    "sha256": "83e6f06ea0ab943a7e21026e063ca888891374d6882dc0eaa52e23d6b35c6cf9"
+  },
+  {
+    "id": 41,
+    "path": "data/raw/train/egg/not_damaged_41_jpg.rf.630408063dc3fdfa9a9a7f49e1c1d93c.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.41,
+        0.59
+      ]
+    ],
+    "boxes": null,
+    "sha256": "d5a8ed6d6e72a41279423ff04814a52eac62c21e7f788b1d70e0f8d3275144d5"
+  },
+  {
+    "id": 42,
+    "path": "data/raw/train/egg/not_damaged_42_jpg.rf.6626de5325fbf9ad4fec739b2a4e29f3.jpg",
+    "group": "egg_tray",
+    "split": "dev",
+    "points": [
+      [
+        0.35,
+        0.2
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fd3280b14d5d99c3d8525b4510af9188baa60821609b0077066ed35f362ceebf"
+  },
+  {
+    "id": 43,
+    "path": "data/raw/test/egg/not_damaged_43_jpg.rf.66c31342150e751c30214786e72c8683.jpg",
+    "group": "keyboard",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.5
+      ]
+    ],
+    "boxes": null,
+    "sha256": "7ac5ff4d613eb15df35da6410d9b4880e325d61978dcd277631e57a72a7318f2"
+  },
+  {
+    "id": 44,
+    "path": "data/raw/train/egg/not_damaged_44_jpg.rf.a4dbaabec5b64e4c34d874a6870964be.jpg",
+    "group": "backlit_hand",
+    "split": "dev",
+    "points": [
+      [
+        0.47,
+        0.43
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fc18844a6e4b49b77b29baaf7caaf88082854b502107f432260a8435d89f4ff7"
+  },
+  {
+    "id": 45,
+    "path": "data/raw/valid/egg/not_damaged_45_jpg.rf.afe41bdac424f6a6b81d8a809fdf73e0.jpg",
+    "group": "gray_floor",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.27
+      ]
+    ],
+    "boxes": null,
+    "sha256": "e0cce30e263e0f81005a2808fe178d1088b160d20e2762f7ae9dab24a388fc7c"
+  },
+  {
+    "id": 49,
+    "path": "data/raw/train/egg/not_damaged_49_jpg.rf.78a86245d3715c60d39d47045a323711.jpg",
+    "group": "grass",
+    "split": "eval",
+    "points": [
+      [
+        0.45,
+        0.42
+      ]
+    ],
+    "boxes": null,
+    "sha256": "04359276d38120db740c27fb9e383b18c01694837991dea532f7f44cd4146a2b"
+  },
+  {
+    "id": 50,
+    "path": "data/raw/train/egg/not_damaged_50_jpg.rf.b9e65c2fcdb435269f67c9d7ade8ca89.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.46,
+        0.4
+      ]
+    ],
+    "boxes": null,
+    "sha256": "86df5075d97b64c1f4f638047df366ddb92d6fb037d650936a73c9a0ffa41665"
+  },
+  {
+    "id": 52,
+    "path": "data/raw/train/egg/not_damaged_52_jpg.rf.d62840582d63156f7e346b41ab8895d5.jpg",
+    "group": "cable_fabric",
+    "split": "eval",
+    "points": [
+      [
+        0.43,
+        0.31
+      ]
+    ],
+    "boxes": null,
+    "sha256": "c63a9b667a1fe4bedcbe6c37baefdd02139ac9f33d1c7d77e44606c4b45cc683"
+  },
+  {
+    "id": 55,
+    "path": "data/raw/train/egg/not_damaged_55_jpg.rf.73873084ba51dd4e5ab40033b6003190.jpg",
+    "group": "patterned_fabric",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.36
+      ]
+    ],
+    "boxes": null,
+    "sha256": "6a92ef35f65a5668224a04fdccd1f1f3468d9e77815a74a604f22f5c70b7af04"
+  },
+  {
+    "id": 62,
+    "path": "data/raw/train/egg/not_damaged_62_jpg.rf.f34bc5162dc72f41ba60d3f5056cc49b.jpg",
+    "group": "cable_fabric",
+    "split": "eval",
+    "points": [
+      [
+        0.53,
+        0.6
+      ]
+    ],
+    "boxes": null,
+    "sha256": "09f02d2d2418e2401683e242c3bb6de261421aaa91585235dfff4a95e6c59628"
+  },
+  {
+    "id": 78,
+    "path": "data/raw/test/egg/not_damaged_78_jpg.rf.d3a6e8624d192abc58ff7df9d5781bb5.jpg",
+    "group": "granite",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.49
+      ]
+    ],
+    "boxes": null,
+    "sha256": "ab5033cb2b06ffc0d52b267bbc6945f00a74775a10c2c4692f8c6d8de40481b7"
+  },
+  {
+    "id": 95,
+    "path": "data/raw/train/egg/not_damaged_95_jpg.rf.0806f2b78a5bc571cd36453998060b58.jpg",
+    "group": "patterned_fabric",
+    "split": "dev",
+    "points": [
+      [
+        0.59,
+        0.28
+      ]
+    ],
+    "boxes": null,
+    "sha256": "477465dc7260754b672d029e59c5dd1f3948b2a0cf3652435778de14e087bbf0"
+  },
+  {
+    "id": 100,
+    "path": "data/raw/train/egg/not_damaged_100_jpg.rf.5d780a6024004fa2f68741fa56ddf4c9.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.52
+      ]
+    ],
+    "boxes": null,
+    "sha256": "3d9cf82732b2761b8ec0df13863d61058d960f5f5a2981f2967a661396b1ead2"
+  },
+  {
+    "id": 101,
+    "path": "data/raw/test/egg/not_damaged_101_jpg.rf.479d12a2b41a5ec6d718dcdabd14b0c9.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.44,
+        0.49
+      ]
+    ],
+    "boxes": null,
+    "sha256": "484f9164fcf7fbc4fc38b5382a706ed58bccf9a8a668646c1a294994e22f957f"
+  },
+  {
+    "id": 102,
+    "path": "data/raw/valid/egg/not_damaged_102_jpg.rf.8d754cbc174c6cb6fb1b5c1929edcbb1.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.48,
+        0.38
+      ]
+    ],
+    "boxes": null,
+    "sha256": "4439b27a6f5888a8127a182992751c2bc240f2209ed8d1d7c6ce84cf12666e58"
+  },
+  {
+    "id": 103,
+    "path": "data/raw/train/egg/not_damaged_103_jpg.rf.c0bd961caec5acf3a6582c9cb2551634.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.53,
+        0.19
+      ],
+      [
+        0.63,
+        0.48
+      ],
+      [
+        0.66,
+        0.79
+      ]
+    ],
+    "boxes": null,
+    "sha256": "289a8e9812dc06827fc2504675b5fb8fd5e8ea28085de255e4c6de1a269a8782"
+  },
+  {
+    "id": 104,
+    "path": "data/raw/train/egg/not_damaged_104_jpg.rf.3bf8cb51d5ad8934390c8e2c3b79b32f.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.56
+      ]
+    ],
+    "boxes": null,
+    "sha256": "0b71e8cedb0e3f66122a6e640402ce94071e5a5c610421013ce588375c9853eb"
+  },
+  {
+    "id": 105,
+    "path": "data/raw/train/egg/not_damaged_105_jpg.rf.6b94b57d4e4cb521abbec55bb95c2a76.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.54,
+        0.33
+      ],
+      [
+        0.72,
+        0.58
+      ],
+      [
+        0.17,
+        0.73
+      ]
+    ],
+    "boxes": null,
+    "sha256": "09097f7253d602d8569540adaa065814215b16ccaa586852f35a9a8a2d042596"
+  },
+  {
+    "id": 106,
+    "path": "data/raw/train/egg/not_damaged_106_jpg.rf.4ab043b322cc9e55bdf788a4d69ae74b.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.67
+      ]
+    ],
+    "boxes": null,
+    "sha256": "0b8307076096777cac1c6691b9fb59f94dc1052cd56a3dfcb6a7eaf435f09959"
+  },
+  {
+    "id": 107,
+    "path": "data/raw/valid/egg/not_damaged_107_jpg.rf.8497e164672ad2319ef9ea157023304e.jpg",
+    "group": "rice",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.52
+      ]
+    ],
+    "boxes": null,
+    "sha256": "38cc42a71d13d8634069de55dcc7656b2320aacb799bde472ad29f496f01f8bd"
+  },
+  {
+    "id": 108,
+    "path": "data/raw/train/egg/not_damaged_108_jpg.rf.de0bd2447ade8d891625ac0dd055667a.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.36
+      ]
+    ],
+    "boxes": null,
+    "sha256": "811bb9efcdee8ac543faa70e5a2bf5fbae2fd390ce00970808faf052766ad89a"
+  },
+  {
+    "id": 109,
+    "path": "data/raw/valid/egg/not_damaged_109_jpg.rf.4d74eb94b1d03ebd3e7c442e58699304.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.45
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fc5ccd5f211af611b26d1f07f574f9006109e314d9209ee237ba5705d757e2ea"
+  },
+  {
+    "id": 110,
+    "path": "data/raw/train/egg/not_damaged_110_jpg.rf.2de10ae949146248df94e52f9065bdd8.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.48,
+        0.44
+      ]
+    ],
+    "boxes": null,
+    "sha256": "b5cc69fa48810613377826576338decf13156863c77656c451db94ae3388a20e"
+  },
+  {
+    "id": 111,
+    "path": "data/raw/train/egg/not_damaged_111_jpg.rf.d56bdd5f452dfc3935b4d6962ed33309.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.55,
+        0.6
+      ]
+    ],
+    "boxes": null,
+    "sha256": "04f3805beeb2d70c422ae149a2ee68c58824fdfae0a750d8375615903911722d"
+  },
+  {
+    "id": 112,
+    "path": "data/raw/train/egg/not_damaged_112_jpg.rf.2ecb081cd9d32a7ff8c9f4db24e911b9.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.52,
+        0.51
+      ]
+    ],
+    "boxes": null,
+    "sha256": "f6d0131e879d56f7d112175d18dbe0d338a2c9e6e2a7c38b61fbb7f1bc9c6482"
+  },
+  {
+    "id": 113,
+    "path": "data/raw/train/egg/not_damaged_113_jpg.rf.75e3389c0809c7c0f42fbfd25219e65e.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.65,
+        0.49
+      ],
+      [
+        0.28,
+        0.68
+      ]
+    ],
+    "boxes": null,
+    "sha256": "11741515155b9bbf46d2d1e0ddfc0bc22b5f1689fbc357c8593d540772ce4158"
+  },
+  {
+    "id": 114,
+    "path": "data/raw/train/egg/not_damaged_114_jpg.rf.7ccf87a5610bafd963468463b2e2907c.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.67,
+        0.5
+      ],
+      [
+        0.23,
+        0.7
+      ]
+    ],
+    "boxes": null,
+    "sha256": "9e966fcead4812c5a7aad813fe6068d246d30e14690f888d9cd2a053482be12b"
+  },
+  {
+    "id": 115,
+    "path": "data/raw/valid/egg/not_damaged_115_jpg.rf.5e04f25a50022be8a5f0dbcfe42bc26f.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.37,
+        0.34
+      ],
+      [
+        0.52,
+        0.61
+      ]
+    ],
+    "boxes": null,
+    "sha256": "dcfdbe8375a2cf7f7eec634ece703ba0371b378daf538475af5207abb82fc734"
+  },
+  {
+    "id": 116,
+    "path": "data/raw/train/egg/not_damaged_116_jpg.rf.43fecd96347e2129115fceed65986cc9.jpg",
+    "group": "egg_tray",
+    "split": "dev",
+    "points": [
+      [
+        0.79,
+        0.68
+      ]
+    ],
+    "boxes": [
+      [
+        0.6,
+        0.5,
+        0.95,
+        0.85
+      ]
+    ],
+    "sha256": "bf7716435f1d37d875717041256b5e42427e6bd9f7382f9bad2b25199ce1a22e"
+  },
+  {
+    "id": 117,
+    "path": "data/raw/train/egg/not_damaged_117_jpg.rf.d25ded9e7408f9b89b3cfb3de581f6a6.jpg",
+    "group": "egg_tray",
+    "split": "dev",
+    "points": [
+      [
+        0.58,
+        0.3
+      ]
+    ],
+    "boxes": [
+      [
+        0.38,
+        0.12,
+        0.84,
+        0.48
+      ]
+    ],
+    "sha256": "4ee9d4085dcce17babc22ef4bda5e85d595929d3b08a7466c9622d7cece83638"
+  },
+  {
+    "id": 118,
+    "path": "data/raw/train/egg/not_damaged_118_jpg.rf.3e17ba84bcb3b57ebbf743b145c5ae27.jpg",
+    "group": "foil",
+    "split": "dev",
+    "points": [
+      [
+        0.56,
+        0.65
+      ]
+    ],
+    "boxes": null,
+    "sha256": "f083b23eaca15d2b65cfcf40471784d065268b5b36adbdf30e49c65c9ffe4f5d"
+  },
+  {
+    "id": 119,
+    "path": "data/raw/valid/egg/not_damaged_119_jpg.rf.6758625c4b939166ca105d0509fc569e.jpg",
+    "group": "foil",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.65
+      ]
+    ],
+    "boxes": null,
+    "sha256": "7b205dea5d955350061ba81e8aa602bea1060e199617e8eb321df238743010b6"
+  },
+  {
+    "id": 120,
+    "path": "data/raw/valid/egg/not_damaged_120_jpg.rf.dfe91ad8ce891c84e495a8d59bbe01f5.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.68,
+        0.59
+      ]
+    ],
+    "boxes": null,
+    "sha256": "dd4243adc650a8995e0c872edc4c158fab48758a532ee556c446069a97bbc38a"
+  },
+  {
+    "id": 121,
+    "path": "data/raw/train/egg/not_damaged_121_jpg.rf.0506fe180f5fed88ae65348130fb5192.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.17,
+        0.4
+      ],
+      [
+        0.54,
+        0.63
+      ],
+      [
+        0.86,
+        0.36
+      ]
+    ],
+    "boxes": [
+      [
+        0.03,
+        0.24,
+        0.32,
+        0.56
+      ],
+      [
+        0.38,
+        0.46,
+        0.71,
+        0.78
+      ],
+      [
+        0.72,
+        0.2,
+        0.99,
+        0.52
+      ]
+    ],
+    "sha256": "ea4fcffc7bb67afe82dbb193b8d8e91f9a851b7ed1ae6104d9d51136a4c95c55"
+  },
+  {
+    "id": 122,
+    "path": "data/raw/valid/egg/not_damaged_122_jpg.rf.b44d8e5a76cadeff9b2d8eaa85309d09.jpg",
+    "group": "rice",
+    "split": "dev",
+    "points": [
+      [
+        0.37,
+        0.39
+      ]
+    ],
+    "boxes": null,
+    "sha256": "f95f49041d00def76034d23793f1a5bd7e49da4f9ffa493b41101b09029aefad"
+  },
+  {
+    "id": 123,
+    "path": "data/raw/train/egg/not_damaged_123_jpg.rf.11d40a86277d3ab3fce1c5c6cbf14db0.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.45,
+        0.34
+      ]
+    ],
+    "boxes": [
+      [
+        0.3,
+        0.16,
+        0.62,
+        0.51
+      ]
+    ],
+    "sha256": "d13dcce620c1d4e15f3ca2324e7fadb767f5c373a62d5afdfb2b4304022fad19"
+  },
+  {
+    "id": 124,
+    "path": "data/raw/train/egg/not_damaged_124_jpg.rf.931f62b8d40a093039633b898e0e9114.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.61,
+        0.4
+      ],
+      [
+        0.4,
+        0.75
+      ]
+    ],
+    "boxes": [
+      [
+        0.42,
+        0.24,
+        0.77,
+        0.57
+      ],
+      [
+        0.18,
+        0.57,
+        0.6,
+        0.93
+      ]
+    ],
+    "sha256": "1bd71bc3ec67a6f05019dfe205648d754fc4a2690ebf414c9b55739e96a9056b"
+  },
+  {
+    "id": 125,
+    "path": "data/raw/test/egg/not_damaged_125_jpg.rf.b19353b1f84dcbef1ec088b850927bb3.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.48
+      ]
+    ],
+    "boxes": null,
+    "sha256": "2d9550b61b6e32c7ec3965eaeae32f1a9baa0f2027f505103a19e9de5a4e81f4"
+  },
+  {
+    "id": 126,
+    "path": "data/raw/valid/egg/not_damaged_126_jpg.rf.2c3342cf9ca7ab55f6682ef198e98bbd.jpg",
+    "group": "rice",
+    "split": "dev",
+    "points": [
+      [
+        0.45,
+        0.68
+      ]
+    ],
+    "boxes": null,
+    "sha256": "8d2a64309ee759a1ba544fc627e32c875929ecd8b1aa89dbe61e46f56704a472"
+  },
+  {
+    "id": 127,
+    "path": "data/raw/train/egg/not_damaged_127_jpg.rf.3a541bab7c9e2c2e43c2fdbf391617b5.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.52,
+        0.58
+      ]
+    ],
+    "boxes": null,
+    "sha256": "f1d8fa5524a2d50b7d9bdbd4c36f2a75c9c2aa15aa9eee1470e60886fb18056f"
+  },
+  {
+    "id": 128,
+    "path": "data/raw/train/egg/not_damaged_128_jpg.rf.95a7ef96dcc9e14fa7137708df6f2e60.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.25,
+        0.49
+      ],
+      [
+        0.78,
+        0.31
+      ]
+    ],
+    "boxes": [
+      [
+        0.02,
+        0.35,
+        0.48,
+        0.65
+      ],
+      [
+        0.55,
+        0.14,
+        0.98,
+        0.5
+      ]
+    ],
+    "sha256": "2e38068430710c3aae0972368d8dc4f970b7b24c23e57fb8d9e737d0a77af729"
+  },
+  {
+    "id": 129,
+    "path": "data/raw/train/egg/not_damaged_129_jpg.rf.3cee5e92daed138fcdc13d9aa62c2785.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.26,
+        0.52
+      ],
+      [
+        0.72,
+        0.36
+      ]
+    ],
+    "boxes": [
+      [
+        0.02,
+        0.34,
+        0.5,
+        0.72
+      ],
+      [
+        0.5,
+        0.18,
+        0.95,
+        0.55
+      ]
+    ],
+    "sha256": "734c7b9a75defe87f06181973872920bf11c93433ee5e745dc55790776b2574e"
+  },
+  {
+    "id": 130,
+    "path": "data/raw/valid/egg/not_damaged_130_jpg.rf.7289d26d022f33aa74b3517f40d6a127.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.51,
+        0.56
+      ]
+    ],
+    "boxes": [
+      [
+        0.24,
+        0.35,
+        0.79,
+        0.74
+      ]
+    ],
+    "sha256": "8f710f3509450108fb90011c040bb637c116b981c9c5242a9acd061519771b25"
+  },
+  {
+    "id": 131,
+    "path": "data/raw/train/egg/not_damaged_131_jpg.rf.4ac62f5b18b131bac463f705d0969147.jpg",
+    "group": "foil",
+    "split": "dev",
+    "points": [
+      [
+        0.51,
+        0.46
+      ]
+    ],
+    "boxes": null,
+    "sha256": "e4b87afc55e01c2e2d25c892f1166314a7c817d46ffaff163a09919b9f5605ba"
+  },
+  {
+    "id": 132,
+    "path": "data/raw/train/egg/not_damaged_132_jpg.rf.5deff743ad11d33750171617e116bd7a.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.36,
+        0.5
+      ],
+      [
+        0.71,
+        0.66
+      ],
+      [
+        0.86,
+        0.41
+      ]
+    ],
+    "boxes": null,
+    "sha256": "7150463a2476c4afcb9411029ec82b701beedc2a584a5660d9d3ca92f4160dfe"
+  },
+  {
+    "id": 133,
+    "path": "data/raw/valid/egg/not_damaged_133_jpg.rf.a386f448c321cfb45a902bab446a0536.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.16,
+        0.22
+      ],
+      [
+        0.2,
+        0.49
+      ],
+      [
+        0.79,
+        0.52
+      ]
+    ],
+    "boxes": null,
+    "sha256": "e7c464c76bfae6107518b182ee1f9d6a468777bb05c6868897c029051392e86b"
+  },
+  {
+    "id": 134,
+    "path": "data/raw/train/egg/not_damaged_134_jpg.rf.fb4e9c442527db9e71d4a95584773fa2.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.21,
+        0.68
+      ],
+      [
+        0.72,
+        0.28
+      ],
+      [
+        0.84,
+        0.52
+      ]
+    ],
+    "boxes": [
+      [
+        0.0,
+        0.52,
+        0.48,
+        0.83
+      ],
+      [
+        0.57,
+        0.11,
+        0.87,
+        0.45
+      ],
+      [
+        0.68,
+        0.36,
+        0.99,
+        0.68
+      ]
+    ],
+    "sha256": "43993a8007ff391f1e48a904984ebe7963a4a7d4b3dec58c2397aecc9cb954a6"
+  },
+  {
+    "id": 135,
+    "path": "data/raw/train/Unlabeled/not_damaged_135_jpg.rf.a6d81ffb82470e031fb3ab469c8f0db2.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.59,
+        0.39
+      ],
+      [
+        0.39,
+        0.75
+      ]
+    ],
+    "boxes": [
+      [
+        0.42,
+        0.24,
+        0.77,
+        0.57
+      ],
+      [
+        0.18,
+        0.57,
+        0.6,
+        0.93
+      ]
+    ],
+    "sha256": "a9856410cca231c0015a0f1791bd09522897b61c0b2f4cefcc4494beb747422c"
+  },
+  {
+    "id": 136,
+    "path": "data/raw/valid/egg/not_damaged_136_jpg.rf.b91466d91f3e0005beb0e42acc9d5b83.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.55,
+        0.19
+      ],
+      [
+        0.48,
+        0.48
+      ],
+      [
+        0.51,
+        0.78
+      ]
+    ],
+    "boxes": null,
+    "sha256": "9511260af01a6f7a98cd61114f95119c11d543a53b8e25a619bd352ecbe9b8db"
+  },
+  {
+    "id": 138,
+    "path": "data/raw/train/egg/not_damaged_138_jpg.rf.4db6e0e16ddec73ff527d4efbb119f7a.jpg",
+    "group": "foil",
+    "split": "dev",
+    "points": [
+      [
+        0.56,
+        0.63
+      ]
+    ],
+    "boxes": null,
+    "sha256": "44db2894b34f968cbfaacf3edb7b7e4fdc3b97c3b4bb83ce8451dcc2185e7102"
+  },
+  {
+    "id": 139,
+    "path": "data/raw/train/egg/not_damaged_139_jpg.rf.9f18c65b30035092401a5281a03b7124.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.35,
+        0.35
+      ]
+    ],
+    "boxes": null,
+    "sha256": "1d76d9b4e30874f95d87dce27d70640cd84d700e32047c919feaa8f999c8c853"
+  },
+  {
+    "id": 140,
+    "path": "data/raw/valid/egg/not_damaged_140_jpg.rf.5a28b6a69e229bf384854ec1e98b3f19.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.49,
+        0.19
+      ],
+      [
+        0.53,
+        0.48
+      ],
+      [
+        0.63,
+        0.79
+      ]
+    ],
+    "boxes": null,
+    "sha256": "b8b53a37114dfead4150dfd851771ceae128e3a601dd2616c4b313113212b99d"
+  },
+  {
+    "id": 141,
+    "path": "data/raw/train/egg/not_damaged_141_jpg.rf.67be7a06282cf025b53162b5a9df15ff.jpg",
+    "group": "orange_container",
+    "split": "dev",
+    "points": [
+      [
+        0.52,
+        0.61
+      ]
+    ],
+    "boxes": null,
+    "sha256": "d71b88b3963ae49b5ccddd07448f4179e2de4bb2e523241c072502026d85c6c0"
+  },
+  {
+    "id": 142,
+    "path": "data/raw/train/egg/not_damaged_142_jpg.rf.5b29be6bd5a6cfc192f51a5b580c1a07.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.4,
+        0.28
+      ],
+      [
+        0.3,
+        0.55
+      ],
+      [
+        0.64,
+        0.4
+      ]
+    ],
+    "boxes": [
+      [
+        0.23,
+        0.06,
+        0.58,
+        0.46
+      ],
+      [
+        0.1,
+        0.39,
+        0.49,
+        0.74
+      ],
+      [
+        0.4,
+        0.23,
+        0.86,
+        0.57
+      ]
+    ],
+    "sha256": "d329361995bdb22d8f0d19d7fa1c41805080f9df5e11c502c4c44705000a9c84"
+  },
+  {
+    "id": 143,
+    "path": "data/raw/valid/egg/not_damaged_143_jpg.rf.ddf38df15f549405285b01245a2ace36.jpg",
+    "group": "white_bag",
+    "split": "dev",
+    "points": [
+      [
+        0.38,
+        0.67
+      ]
+    ],
+    "boxes": null,
+    "sha256": "992d12300e0386bb0792173173303032d62300851ec2582851788bc8329d3a66"
+  },
+  {
+    "id": 144,
+    "path": "data/raw/train/egg/not_damaged_144_jpg.rf.a9435fb1769a2350dbdd400bcc46a4eb.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.44,
+        0.19
+      ],
+      [
+        0.32,
+        0.43
+      ],
+      [
+        0.77,
+        0.33
+      ]
+    ],
+    "boxes": [
+      [
+        0.22,
+        0.01,
+        0.66,
+        0.4
+      ],
+      [
+        0.05,
+        0.24,
+        0.59,
+        0.69
+      ],
+      [
+        0.52,
+        0.15,
+        0.99,
+        0.52
+      ]
+    ],
+    "sha256": "e91005cebfbdd688e115803260646682aec577246f3344f351b37ad1d3da88af"
+  },
+  {
+    "id": 145,
+    "path": "data/raw/train/Unlabeled/not_damaged_145_jpg.rf.5147bfde42f30a27504377fd5ef13b05.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.62,
+        0.38
+      ],
+      [
+        0.42,
+        0.74
+      ]
+    ],
+    "boxes": [
+      [
+        0.44,
+        0.23,
+        0.81,
+        0.57
+      ],
+      [
+        0.21,
+        0.57,
+        0.64,
+        0.93
+      ]
+    ],
+    "sha256": "79535b5521e4d6e27784a657d09daa07daa2a80de9b71fc0f524c7a99d5fd3a5"
+  },
+  {
+    "id": 146,
+    "path": "data/raw/train/egg/not_damaged_146_jpg.rf.a7df655e36c3a2faab1c3f248081504d.jpg",
+    "group": "gray_floor",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.49
+      ]
+    ],
+    "boxes": null,
+    "sha256": "1faa92facfd88df13678076a9c4c60030adef62cb1d3d3149b911ed866ad4114"
+  },
+  {
+    "id": 147,
+    "path": "data/raw/valid/egg/not_damaged_147_jpg.rf.f96813b608c83c8ca5fadbe68c1eefdb.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.28,
+        0.72
+      ],
+      [
+        0.7,
+        0.54
+      ]
+    ],
+    "boxes": null,
+    "sha256": "80c8b93deb94ba32220d22e7ec6477395776bffedb21d9ff365353a86349af97"
+  },
+  {
+    "id": 148,
+    "path": "data/raw/train/egg/not_damaged_148_jpg.rf.8a3e1c0e1dae236abe0e9a75a4882bda.jpg",
+    "group": "brown_counter",
+    "split": "dev",
+    "points": [
+      [
+        0.3,
+        0.32
+      ],
+      [
+        0.63,
+        0.51
+      ],
+      [
+        0.21,
+        0.68
+      ]
+    ],
+    "boxes": null,
+    "sha256": "bd2478f0630d8a3a6ad279acba1359c573c38a6d5b29067e45e0f436a0eab857"
+  },
+  {
+    "id": 149,
+    "path": "data/raw/valid/egg/not_damaged_149_jpg.rf.c3c35299246e8c667ee33f02855a6e99.jpg",
+    "group": "tile_blue",
+    "split": "dev",
+    "points": [
+      [
+        0.39,
+        0.63
+      ]
+    ],
+    "boxes": null,
+    "sha256": "ec233f4a34787f66d57ca762457f8c47a7afeb7a256461c8ac00e04578cbfe8f"
+  },
+  {
+    "id": 150,
+    "path": "data/raw/valid/egg/not_damaged_150_jpg.rf.c58ad3cfc0417f557be06b685008bb60.jpg",
+    "group": "tile_blue",
+    "split": "dev",
+    "points": [
+      [
+        0.47,
+        0.58
+      ]
+    ],
+    "boxes": null,
+    "sha256": "b8f33d94eca8201380019ea69fac657f2ee7d77c10e8d344f39257500d42bec8"
+  },
+  {
+    "id": 151,
+    "path": "data/raw/train/egg/not_damaged_151_jpg.rf.34a8c4ae80d0863cd228120235134ae2.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.51,
+        0.45
+      ]
+    ],
+    "boxes": null,
+    "sha256": "c792693810d528099c8092b614025bde8f6892f129fe2451829043871bc435a3"
+  },
+  {
+    "id": 152,
+    "path": "data/raw/test/egg/not_damaged_152_jpg.rf.a57edb18d395ce87e23f7abccbd1ad69.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.46,
+        0.55
+      ]
+    ],
+    "boxes": null,
+    "sha256": "c92566140322d7263108de13a2299abdce4cdb34a2555caa7b096684271856bc"
+  },
+  {
+    "id": 153,
+    "path": "data/raw/test/egg/not_damaged_153_jpg.rf.ea842e70f08e63e69bbcc74f1bc143a8.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.48,
+        0.59
+      ]
+    ],
+    "boxes": null,
+    "sha256": "3c6c00a907a447f16b0afd596698e8f19f7594facdfa7ff3e13740d5ae18e299"
+  },
+  {
+    "id": 154,
+    "path": "data/raw/train/egg/not_damaged_154_jpg.rf.1ad087e824bbaae4f2c8218624f83c1a.jpg",
+    "group": "woven_mat",
+    "split": "dev",
+    "points": [
+      [
+        0.48,
+        0.43
+      ]
+    ],
+    "boxes": null,
+    "sha256": "9ebd630eb7808595931b1c471bb9acd91ff397f376ca694c339ef8d6fdde9a0b"
+  },
+  {
+    "id": 155,
+    "path": "data/raw/train/egg/not_damaged_155_jpg.rf.a65395f65d93bcd6cbf6bdab6d94e551.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.42,
+        0.51
+      ]
+    ],
+    "boxes": null,
+    "sha256": "4b55e42baa003bcb8328452129b2fd0f65e552ea994859b9822ae6044aae9a41"
+  },
+  {
+    "id": 156,
+    "path": "data/raw/train/egg/not_damaged_156_jpg.rf.6ae4742599d61d6120e5beb5d38bcf2e.jpg",
+    "group": "tile_blue",
+    "split": "dev",
+    "points": [
+      [
+        0.43,
+        0.4
+      ]
+    ],
+    "boxes": null,
+    "sha256": "3f9fe62c5fb9aef52e0aca9f0cbbd67d6cbd9a8de0d2ed90a8cddfe86d0d5dbd"
+  },
+  {
+    "id": 157,
+    "path": "data/raw/train/egg/not_damaged_157_jpg.rf.b244a82199f2158510ccf485e54d98a2.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.48,
+        0.6
+      ]
+    ],
+    "boxes": null,
+    "sha256": "210ba208ce15337da8f300e1006a0b5f828e7f936ebf4f6fe1d0be53a965d637"
+  },
+  {
+    "id": 158,
+    "path": "data/raw/valid/egg/not_damaged_158_jpg.rf.344b69defda5c12d2f73f77ab479c93c.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.47,
+        0.31
+      ]
+    ],
+    "boxes": null,
+    "sha256": "22dc751461dd1f7f1d15bce6842d899b0b4ea69edd20b59ba0bc528dc03d432f"
+  },
+  {
+    "id": 159,
+    "path": "data/raw/train/egg/not_damaged_159_jpg.rf.2bc51aa920c0031f8e311c52c762cded.jpg",
+    "group": "steel_bowl",
+    "split": "eval",
+    "points": [
+      [
+        0.32,
+        0.44
+      ]
+    ],
+    "boxes": null,
+    "sha256": "bd35f5c952ff183fbdef9a67fc9f42e7c252e72566c351ddb861e4fef2852e77"
+  },
+  {
+    "id": 160,
+    "path": "data/raw/train/egg/not_damaged_160_jpg.rf.64b7834918be5b72840ecee1e390157e.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.45,
+        0.43
+      ]
+    ],
+    "boxes": [
+      [
+        0.25,
+        0.26,
+        0.66,
+        0.6
+      ]
+    ],
+    "sha256": "91423385759f2739b4a9871f03592f17f4935bd2f769f979f04401c31aec5a99"
+  },
+  {
+    "id": 161,
+    "path": "data/raw/test/egg/not_damaged_161_jpg.rf.fd216aa5e11e147fc1527478cceae94e.jpg",
+    "group": "hand",
+    "split": "dev",
+    "points": [
+      [
+        0.5,
+        0.52
+      ]
+    ],
+    "boxes": null,
+    "sha256": "4f375625ae26441db9a55ac1e858d99526766474ca5657e4ac7b8a0e94a4d703"
+  },
+  {
+    "id": 162,
+    "path": "data/raw/train/egg/not_damaged_162_jpg.rf.4255a3c6bb6b0a9a625d70a5b51a7df9.jpg",
+    "group": "woven_mat",
+    "split": "dev",
+    "points": [
+      [
+        0.41,
+        0.46
+      ]
+    ],
+    "boxes": null,
+    "sha256": "74dbca23fd857ab1cb510223beea2d66355e3dfa35edbe1c904f8fe95206fd3c"
+  },
+  {
+    "id": 163,
+    "path": "data/raw/train/egg/not_damaged_163_jpg.rf.eee95b2e3a2af8b228d81075f9b2f24d.jpg",
+    "group": "tile_blue",
+    "split": "dev",
+    "points": [
+      [
+        0.52,
+        0.42
+      ]
+    ],
+    "boxes": null,
+    "sha256": "4b1d6d957a56acaf3b50951474539e0721340d3c7687160466fe68a945b9e692"
+  },
+  {
+    "id": 164,
+    "path": "data/raw/train/egg/not_damaged_164_jpg.rf.aeab74f44b77d69cb4884f8a55d4a5b8.jpg",
+    "group": "woven_mat",
+    "split": "dev",
+    "points": [
+      [
+        0.55,
+        0.46
+      ]
+    ],
+    "boxes": null,
+    "sha256": "fe5f73f8ca080f5c6dc6fb7ac60378bc7207f2ef833f8faf68046ffac3f92c0f"
+  }
+]

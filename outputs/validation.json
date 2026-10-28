@@ -1,0 +1,14 @@
+{
+  "reference_masks": 110,
+  "prediction_masks": 110,
+  "metric_rows": 110,
+  "decoded_video_frames": 1440,
+  "video_fps": 24.0,
+  "video_duration_seconds": 60.0,
+  "track_ids": [
+    1,
+    2
+  ],
+  "video_sha256": "30a2b6f57e6ec153f3e3ca31acefaee4e240c28e3f2fb93355e0f69e09c1d705",
+  "tests": "Four unittest checks passed; see tests/test_pipeline.py"
+}

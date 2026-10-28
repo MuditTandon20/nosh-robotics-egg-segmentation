@@ -1,0 +1,322 @@
+[
+  {
+    "trial": "01_otsu",
+    "reason": "Bright egg against darker background; establish a simple baseline.",
+    "parameters": {
+      "method": "otsu",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.23953465670673812,
+      "dice": 0.2754071801751771,
+      "precision": 0.3076535059026188,
+      "recall": 0.2676129110237135,
+      "boundary_f1": 0.16854954222102847,
+      "seconds": 0.012292076139022935,
+      "micro_iou": 0.29268526759572644,
+      "iou_cluster_bootstrap_95ci": [
+        0.09460011604832844,
+        0.3888598466582835
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "02_low_saturation",
+    "reason": "Reject colored backgrounds using low saturation and high brightness.",
+    "parameters": {
+      "method": "hsv",
+      "saturation": 70,
+      "value": 130,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.2047093168891991,
+      "dice": 0.2328793734251252,
+      "precision": 0.2585489412369881,
+      "recall": 0.22843579023387442,
+      "boundary_f1": 0.15635631823374743,
+      "seconds": 0.019372795459772038,
+      "micro_iou": 0.2583225793433337,
+      "iou_cluster_bootstrap_95ci": [
+        0.08789364518436912,
+        0.32464861643609755
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "03_relaxed_hsv",
+    "reason": "Recover shadowed egg regions by relaxing color thresholds.",
+    "parameters": {
+      "method": "hsv",
+      "saturation": 100,
+      "value": 95,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.07922403993217751,
+      "dice": 0.08709070345776905,
+      "precision": 0.0831339408553618,
+      "recall": 0.09766874393808682,
+      "boundary_f1": 0.05594796786445355,
+      "seconds": 0.017796744329230438,
+      "micro_iou": 0.10220419935096378,
+      "iou_cluster_bootstrap_95ci": [
+        2.8113189195754485e-05,
+        0.1872302051287532
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "04_shape_filter",
+    "reason": "Reject irregular background fragments with stronger shape constraints.",
+    "parameters": {
+      "method": "hsv",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.6,
+      "solidity": 0.88,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.10575049041015525,
+      "dice": 0.11563717991350474,
+      "precision": 0.12084638566178872,
+      "recall": 0.12019471637495416,
+      "boundary_f1": 0.07545370332126441,
+      "seconds": 0.017533029547352766,
+      "micro_iou": 0.14437902176006912,
+      "iou_cluster_bootstrap_95ci": [
+        0.025288539172216268,
+        0.2179654283658336
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "05_lab_otsu",
+    "reason": "Use illumination thresholding in Lab and suppress chromatic pixels.",
+    "parameters": {
+      "method": "lab",
+      "saturation": 95,
+      "value": 95,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.2254805231402426,
+      "dice": 0.2579134934487055,
+      "precision": 0.28657351651086493,
+      "recall": 0.25274383278296275,
+      "boundary_f1": 0.1612782633365302,
+      "seconds": 0.023878892039647326,
+      "micro_iou": 0.27536929738361954,
+      "iou_cluster_bootstrap_95ci": [
+        0.09808507475103562,
+        0.34949900503420034
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "06_grabcut",
+    "reason": "Refine candidate boundaries with foreground/background color models.",
+    "parameters": {
+      "method": "hsv",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 3
+    },
+    "development": {
+      "iou": 0.13879878344179344,
+      "dice": 0.1561435434424093,
+      "precision": 0.15488554318563275,
+      "recall": 0.16954856945611343,
+      "boundary_f1": 0.11304648299396482,
+      "seconds": 0.13292191363341938,
+      "micro_iou": 0.19050714144671888,
+      "iou_cluster_bootstrap_95ci": [
+        0.034320798825264474,
+        0.2844536045415747
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "07_close_large",
+    "reason": "Bridge egg highlights and small cracks; risk merging background.",
+    "parameters": {
+      "method": "hsv",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 11,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.10527380316262373,
+      "dice": 0.11857085234049221,
+      "precision": 0.11609087464671686,
+      "recall": 0.13049564931191462,
+      "boundary_f1": 0.07352294290946638,
+      "seconds": 0.0189056227351433,
+      "micro_iou": 0.15422971758007042,
+      "iou_cluster_bootstrap_95ci": [
+        0.016152864291826757,
+        0.22701996082003234
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "08_local_threshold",
+    "reason": "Try local contrast to handle uneven illumination; may amplify textured backgrounds.",
+    "parameters": {
+      "method": "local",
+      "saturation": 85,
+      "value": 100,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.45,
+      "solidity": 0.82,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.21729140478516118,
+      "dice": 0.23039857660999627,
+      "precision": 0.24548920377346295,
+      "recall": 0.22122324944945407,
+      "boundary_f1": 0.18054909434971053,
+      "seconds": 0.022682140906743534,
+      "micro_iou": 0.240752499057699,
+      "iou_cluster_bootstrap_95ci": [
+        0.07373041818431234,
+        0.3536536367963381
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "09_multilevel_ovals",
+    "reason": "Development failures show that one threshold merges eggs with pale backgrounds. Search multiple thresholds and rank oval candidates.",
+    "parameters": {
+      "method": "multilevel",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.65,
+      "solidity": 0.9,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.43254419849170794,
+      "dice": 0.5154189932613229,
+      "precision": 0.6869742821738108,
+      "recall": 0.43937070971879405,
+      "boundary_f1": 0.2626045050892356,
+      "seconds": 0.041488707951926204,
+      "micro_iou": 0.45244528180790977,
+      "iou_cluster_bootstrap_95ci": [
+        0.2986472929499941,
+        0.5558990726867904
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "discarded",
+    "decision_reason": "Lower development mean IoU than selected configuration"
+  },
+  {
+    "trial": "10_multilevel_relaxed",
+    "reason": "Recover less regular egg contours; test whether increased recall outweighs background false positives.",
+    "parameters": {
+      "method": "multilevel",
+      "saturation": 85,
+      "value": 110,
+      "min_area": 0.003,
+      "max_area": 0.4,
+      "circularity": 0.5,
+      "solidity": 0.85,
+      "close": 5,
+      "grabcut": 0
+    },
+    "development": {
+      "iou": 0.45638086664625005,
+      "dice": 0.5492959199886948,
+      "precision": 0.7476642774329754,
+      "recall": 0.4745023031822587,
+      "boundary_f1": 0.2726696242476854,
+      "seconds": 0.04770974317613185,
+      "micro_iou": 0.46283633873119756,
+      "iou_cluster_bootstrap_95ci": [
+        0.33162551456656814,
+        0.5687999728922621
+      ],
+      "images": 88,
+      "groups": 17
+    },
+    "decision": "kept",
+    "decision_reason": "Highest development mean IoU"
+  }
+]

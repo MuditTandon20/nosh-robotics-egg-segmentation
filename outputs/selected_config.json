@@ -1,0 +1,14 @@
+{
+  "trial": "10_multilevel_relaxed",
+  "parameters": {
+    "method": "multilevel",
+    "saturation": 85,
+    "value": 110,
+    "min_area": 0.003,
+    "max_area": 0.4,
+    "circularity": 0.5,
+    "solidity": 0.85,
+    "close": 5,
+    "grabcut": 0
+  }
+}

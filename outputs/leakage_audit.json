@@ -1,0 +1,57 @@
+{
+  "exact_cross_split_duplicates": 0,
+  "minimum_cross_split_phash_distance": 18,
+  "closest_cross_split_pairs": [
+    [
+      18,
+      18,
+      12
+    ],
+    [
+      18,
+      28,
+      159
+    ],
+    [
+      18,
+      39,
+      10
+    ],
+    [
+      18,
+      55,
+      124
+    ],
+    [
+      18,
+      95,
+      6
+    ],
+    [
+      18,
+      123,
+      4
+    ],
+    [
+      20,
+      15,
+      10
+    ],
+    [
+      20,
+      18,
+      62
+    ],
+    [
+      20,
+      21,
+      129
+    ],
+    [
+      20,
+      39,
+      153
+    ]
+  ],
+  "caveat": "63-bit low-frequency pHash is a diagnostic, not a guarantee of scene independence."
+}
