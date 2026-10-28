@@ -29,7 +29,7 @@ The tracking output contains 1440 frames at 24 fps and emits 2 track IDs. It is 
 
 Public repository: <link href="https://github.com/MuditTandon20/nosh-robotics-egg-segmentation">https://github.com/MuditTandon20/nosh-robotics-egg-segmentation</link>
 
-Tracking video on Google Drive: <link href="https://drive.google.com/file/d/1XDrUo4D_BzqZPXqDqBrPhjaMHzaO1i-r/view?usp=drivesdk">Open tracking video</link>. Public access verification: private at owner request. A downloadable copy is also included in the public repository at outputs/egg_tracking.mp4.
+Tracking video on Google Drive: <link href="https://drive.google.com/file/d/1XDrUo4D_BzqZPXqDqBrPhjaMHzaO1i-r/view?usp=drivesdk">Open tracking video</link>. Public access verification: verified: anyone with the link can view. A downloadable copy is also included in the public repository at outputs/egg_tracking.mp4.
 
 
 ## Scope and honest limits

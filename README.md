@@ -2,9 +2,11 @@
 
 An executed CV assignment with pretrained MobileSAM reference masks, an image-only classical segmenter, ten development experiments, quantitative/qualitative analysis, and individual egg tracking.
 
+See the [assignment requirement checklist](SUBMISSION_CHECKLIST.md) for links to every requested deliverable.
+
 - [PDF report](report.pdf) and [readable report](REPORT.md)
 - [Tracking video — download the MP4](outputs/egg_tracking.mp4)
-- [Google Drive video](https://drive.google.com/file/d/1XDrUo4D_BzqZPXqDqBrPhjaMHzaO1i-r/view?usp=drivesdk) — **private at the owner's request**. The assignment requests a public Drive link; this remaining sharing requirement is not satisfied while it is private. The public repository includes the same video.
+- [Google Drive video](https://drive.google.com/file/d/1XDrUo4D_BzqZPXqDqBrPhjaMHzaO1i-r/view?usp=drivesdk) — **publicly viewable by anyone with the link** (Viewer permission verified). The public repository also includes the same video.
 - [Experiment log](outputs/experiments.json), [per-image metrics](outputs/per_image_metrics.csv), [summary](outputs/summary.json), [track logs](outputs/tracks.csv)
 
 ## Results

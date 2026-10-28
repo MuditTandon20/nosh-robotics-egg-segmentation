@@ -2,6 +2,12 @@
   "github_url": "https://github.com/MuditTandon20/nosh-robotics-egg-segmentation",
   "github_public": true,
   "drive_url": "https://drive.google.com/file/d/1XDrUo4D_BzqZPXqDqBrPhjaMHzaO1i-r/view?usp=drivesdk",
-  "drive_public_status": "private at owner request",
-  "drive_public": false
+  "drive_public_status": "verified: anyone with the link can view",
+  "drive_public": true,
+  "drive_permission": {
+    "type": "anyone",
+    "role": "reader",
+    "allowFileDiscovery": false
+  },
+  "drive_anonymous_download_verified": true
 }
